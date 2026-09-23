@@ -29,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saurabh0808-ind/Leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
