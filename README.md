@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saurabh0808-ind/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/Saurabh0808-ind/Leet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Saurabh0808-ind/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Saurabh0808-ind/Leet/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Saurabh0808-ind/Leet/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
