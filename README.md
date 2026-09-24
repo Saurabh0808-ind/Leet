@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh0808-ind/Leet/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Saurabh0808-ind/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Saurabh0808-ind/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Saurabh0808-ind/Leet/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Saurabh0808-ind/Leet/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Saurabh0808-ind/Leet/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
