@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Saurabh0808-ind/Leet/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Saurabh0808-ind/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Saurabh0808-ind/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Saurabh0808-ind/Leet/tree/master/0141-linked-list-cycle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Saurabh0808-ind/Leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
