@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Saurabh0808-ind/Leet/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh0808-ind/Leet/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saurabh0808-ind/Leet/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
