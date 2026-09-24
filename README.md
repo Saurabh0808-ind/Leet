@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Saurabh0808-ind/Leet/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0503-next-greater-element-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Saurabh0808-ind/Leet/tree/master/0141-linked-list-cycle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saurabh0808-ind/Leet/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
