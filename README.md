@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabh0808-ind/Leet/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0503-next-greater-element-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh0808-ind/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Saurabh0808-ind/Leet/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Saurabh0808-ind/Leet/tree/master/0933-number-of-recent-calls) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
