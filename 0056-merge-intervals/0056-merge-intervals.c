@@ -32,4 +32,4 @@ int** merge(int** intervals, int intervalsSize, int* intervalsColSize,
 
     *returnSize = count;
     return result;
-}
+            }
