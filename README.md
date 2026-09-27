@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saurabh0808-ind/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Saurabh0808-ind/Leet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/Saurabh0808-ind/Leet/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Saurabh0808-ind/Leet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saurabh0808-ind/Leet/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Saurabh0808-ind/Leet/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saurabh0808-ind/Leet/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saurabh0808-ind/Leet/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saurabh0808-ind/Leet/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Saurabh0808-ind/Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Saurabh0808-ind/Leet/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/Saurabh0808-ind/Leet/tree/master/0709-to-lower-case) |
