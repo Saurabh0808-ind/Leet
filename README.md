@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saurabh0808-ind/Leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Saurabh0808-ind/Leet/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Saurabh0808-ind/Leet/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Saurabh0808-ind/Leet/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Saurabh0808-ind/Leet/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Saurabh0808-ind/Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Saurabh0808-ind/Leet/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Saurabh0808-ind/Leet/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabh0808-ind/Leet/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Saurabh0808-ind/Leet/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -112,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Saurabh0808-ind/Leet/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Saurabh0808-ind/Leet/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Saurabh0808-ind/Leet/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Saurabh0808-ind/Leet/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Saurabh0808-ind/Leet/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Saurabh0808-ind/Leet/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
